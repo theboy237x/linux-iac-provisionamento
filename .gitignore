@@ -1,0 +1,14 @@
+# Nunca versionar arquivos pessoais, chaves ou históricos
+.ssh/
+*.pem
+*.key
+id_*
+.*_history
+.mozilla/
+.config/
+.local/
+.cache/
+.gitconfig
+*.save
+*.pid
+.env
